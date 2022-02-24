@@ -1,7 +1,7 @@
 
 ![1ylpd3npaw60](https://user-images.githubusercontent.com/81990607/155113392-aaf5796f-1f79-4817-956c-738b386c3917.gif)
 
- ### I'm Tonya, software engineer student from St. Peterburg, Russia.
+ ### I'm Tonya, software engineer student from St. Petersburg, Russia.
  
  * 🐦 Interested in embedded development and low-level programming
  * 📑 Currently studying at [ITMO University](https://itmo.ru/ru/)
