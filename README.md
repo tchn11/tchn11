@@ -3,7 +3,7 @@
 
  ### I'm Tonya, software engineer student from St. Petersburg, Russia.
  
- * 🐦 Interested in embedded development and low-level programming
+ * 🐦 Interested in embedded and low-level programming
  * 📑 Currently studying at [ITMO University](https://itmo.ru/ru/)
  * 🐳 Searching for internship
  * 📬 Contact me via [vk](https://vk.com/a_ina2), [telegram](https://t.me/knhnn) or <akonany11@gmail.com>
