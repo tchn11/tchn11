@@ -4,7 +4,7 @@
  ### I'm Tonya, software engineer student from St. Petersburg, Russia.
  
  * 📑 Currently studying at [ITMO University](https://itmo.ru/ru/)
- * 🐳 Searching for internship
+ * 🐳 Embedded programmer at [NIPK Electron](https://electronxray.com/en/) 
  * 📬 Contact me via [vk](https://vk.com/a_ina2), [telegram](https://t.me/knhnn) or <akonany11@gmail.com>
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tchn11&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
