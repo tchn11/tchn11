@@ -7,6 +7,5 @@
  * 🐳 Embedded programmer at [NIPK Electron](https://electronxray.com/en/) 
  * 📬 Contact me via [vk](https://vk.com/a_ina2), [telegram](https://t.me/knhnn) or <akonany11@gmail.com>
  
- [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tchn11)](https://github.com/anuraghazra/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tchn11&layout=compact)
  
